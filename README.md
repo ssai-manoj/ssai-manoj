@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **SwiftUI,ReactJS,ASP.NET 7**
 
-- 💬 Ask me about **Swift, UIKit, CoreData**
+- 💬 Ask me about **Swift, UIKit, SwiftUI, AWS, CoreData**
 
 - 📫 How to reach me **smpersonal77@gmail.com**
 
