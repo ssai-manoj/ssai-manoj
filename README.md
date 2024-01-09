@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Sai Manoj</h1>
-<h3 align="center">A passionate iOS and web developer from India</h3>
+<h3 align="center">A passionate Software Developer from India</h3>
 
-- 🌱 I’m currently learning **SwiftUI,ReactJS,ASP.NET 7**
 
-- 💬 Ask me about **Swift, UIKit, SwiftUI, AWS, CoreData**
+- 💬 Ask me about **React, Node, Swift, UIKit, SwiftUI, AWS, Azure, CI/CD**
 
 - 📫 How to reach me **smpersonal77@gmail.com**
 
